@@ -19,16 +19,8 @@ The goal of this project was to create an application using React while accessin
 * Add a time spread.
 * Add temperature range.
 
-<!-- ## ERD
-
-![ERD](client/public/ERD.jpg)
 
 ## Wireframes
 
-![Home](client/public/Home.jpg)
+![Home](public/wireframe.png)
 
-![Team Page](client/public/teamPage.jpg)
-
-![Merchandise Page](client/public/merchPage.jpg)
-
-![Schedule Page](client/public/schedPage.jpg) -->
