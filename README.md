@@ -17,6 +17,7 @@ The goal of this project was to create an application using React while accessin
 * Show  Weather over 5 Day Spread
 * Add Weather images
 * Add a time spread.
+* Add temperature range.
 
 <!-- ## ERD
 
